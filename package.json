@@ -1,0 +1,19 @@
+{
+  "name": "dc_chatbot",
+  "version": "0.0.0",
+  "description": "Automated Bot for WDI #3 students can use to query on demand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wdi",
+    "chatbot",
+    "bot"
+  ],
+  "author": "James Jalandoni",
+  "dependencies": {
+    "jsdom": "*",
+    "request": "*"
+  }
+}
